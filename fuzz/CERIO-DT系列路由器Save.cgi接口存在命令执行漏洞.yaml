@@ -1,0 +1,3 @@
+name: "CERIO-DT系列路由器Save.cgi接口存在命令执行漏洞"
+poc: "/cgi-bin/Save.cgi"
+status_code: 200

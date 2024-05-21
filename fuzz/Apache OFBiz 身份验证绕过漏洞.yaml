@@ -1,0 +1,3 @@
+name: "Apache OFBiz 身份验证绕过漏洞 (CVE-2023-51467)"
+poc: "/webtools/control/ProgramExport"
+status_code: 200

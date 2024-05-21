@@ -1,0 +1,3 @@
+name: "AJ-Report开源数据大屏存在远程命令执行漏洞"
+poc: "/dataSetParam/verification;swagger-ui"
+status_code: 200

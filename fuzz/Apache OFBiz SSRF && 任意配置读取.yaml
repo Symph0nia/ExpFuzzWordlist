@@ -1,0 +1,3 @@
+name: "Apache OFBiz SSRF && 任意配置读取"
+poc: "/webtools/control/getJSONuiLabelArray"
+status_code: 200

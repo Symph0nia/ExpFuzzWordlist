@@ -1,0 +1,3 @@
+name: "360天擎 - 未授权与sql注入"
+poc: "/api/dbstat/gettablessize"
+status_code: 200
