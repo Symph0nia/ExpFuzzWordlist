@@ -1,0 +1,3 @@
+name: "HiKVISION 综合安防管理平台 files 任意文件上传漏洞"
+poc: "/center/api/files;.html"
+status_code: 200

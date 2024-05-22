@@ -1,0 +1,3 @@
+name: "H3C-SecParh堡垒机任意用户登录漏洞"
+poc: "/audit/gui_detail_view.php"
+status_code: 200

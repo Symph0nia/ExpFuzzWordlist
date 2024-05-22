@@ -1,0 +1,3 @@
+name: "亿赛通DecryptApplicationService2接口任意文件上传"
+poc: "/CDGServer3/DecryptApplicationService2"
+status_code: 200

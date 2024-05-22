@@ -1,0 +1,3 @@
+name: "云匣子堡垒机fastjson漏洞"
+poc: "/3.0/authService/config"
+status_code: 200

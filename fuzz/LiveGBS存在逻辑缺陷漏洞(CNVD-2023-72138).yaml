@@ -1,0 +1,3 @@
+name: "LinkWeChat任意文件读取漏洞"
+poc: "/api/v1/user/save"
+status_code: 200

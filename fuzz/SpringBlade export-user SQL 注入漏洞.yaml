@@ -1,0 +1,3 @@
+name: "SpringBlade export-user SQL 注入漏洞"
+poc: "/api/blade-user/export-user"
+status_code: 200

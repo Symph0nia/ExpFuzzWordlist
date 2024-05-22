@@ -1,0 +1,3 @@
+name: "H3C-校园网自助服务系统flexfileupload任意文件上传漏洞"
+poc: "/imc/primepush/%2e%2e/flexFileUpload"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "Netgear路由器boardDataWW.php存在RCE漏洞"
+poc: "/boardDataWW.php"
+status_code: 200

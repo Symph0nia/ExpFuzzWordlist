@@ -1,0 +1,3 @@
+name: "SpringBlade blade-log存在SQL 注入漏洞"
+poc: "/api/blade-log/error/list"
+status_code: 200

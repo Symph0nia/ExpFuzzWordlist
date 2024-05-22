@@ -1,0 +1,3 @@
+name: "pyLoad远程代码执行漏洞"
+poc: "/flash/addcrypted2"
+status_code: 200

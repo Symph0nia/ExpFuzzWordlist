@@ -1,0 +1,3 @@
+name: "万户ezoffice wpsservlet任意文件上传漏洞"
+poc: "/defaultroot/wpsservlet"
+status_code: 200

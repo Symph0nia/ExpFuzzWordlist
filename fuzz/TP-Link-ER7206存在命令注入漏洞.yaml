@@ -1,0 +1,3 @@
+name: "TP-Link-ER7206存在命令注入漏洞"
+poc: "/cgi-bin/luci"
+status_code: 200

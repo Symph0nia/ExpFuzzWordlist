@@ -1,0 +1,3 @@
+name: "Springblade默认密钥可伪造凭据"
+poc: "/api/blade-user/user-list"
+status_code: 200

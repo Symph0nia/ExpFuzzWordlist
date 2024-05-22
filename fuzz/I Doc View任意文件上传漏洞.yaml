@@ -1,0 +1,3 @@
+name: "I Doc View任意文件上传漏洞"
+poc: "/html/2word"
+status_code: 200

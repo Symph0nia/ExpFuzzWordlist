@@ -1,0 +1,3 @@
+name: "云时空社会化商业ERP系统validateLoginName接口处存在SQL注入漏洞"
+poc: "/sys/user/validateLoginName"
+status_code: 200

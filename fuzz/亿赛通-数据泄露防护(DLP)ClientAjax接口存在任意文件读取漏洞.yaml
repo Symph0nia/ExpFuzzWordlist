@@ -1,0 +1,3 @@
+name: "亿赛通-数据泄露防护(DLP)ClientAjax接口存在任意文件读取漏洞"
+poc: "/CDGServer3/ClientAjax"
+status_code: 200

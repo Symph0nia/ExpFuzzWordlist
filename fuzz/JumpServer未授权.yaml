@@ -1,0 +1,3 @@
+name: "JumpServer未授权漏洞"
+poc: "/api/v1/terminal/sessions"
+status_code: 200

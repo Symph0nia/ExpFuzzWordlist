@@ -1,0 +1,3 @@
+name: "JeePlus低代码开发平台存在SQL注入漏洞"
+poc: "/a/sys/user/validateMobileExist"
+status_code: 200

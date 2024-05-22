@@ -1,0 +1,3 @@
+name: "东华医疗协同办公系统反序列化漏洞"
+poc: "/workflow/DemoDefinitionProxyServlet"
+status_code: 200

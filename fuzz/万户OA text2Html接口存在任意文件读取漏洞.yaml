@@ -1,0 +1,3 @@
+name: "万户OA text2Html接口存在任意文件读取漏洞"
+poc: "/defaultroot/convertFile/text2Html.controller"
+status_code: 200

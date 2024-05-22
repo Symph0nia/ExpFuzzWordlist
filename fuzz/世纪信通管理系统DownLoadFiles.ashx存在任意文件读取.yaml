@@ -1,0 +1,3 @@
+name: "世纪信通管理系统DownLoadFiles.ashx存在任意文件读取"
+poc: "/WeChatConfig/ashx/DownLoadFiles.ashx"
+status_code: 200

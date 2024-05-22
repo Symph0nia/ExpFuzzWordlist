@@ -1,0 +1,3 @@
+name: "H3C网络管理系统任意文件读取漏洞"
+poc: "/webui"
+status_code: 200

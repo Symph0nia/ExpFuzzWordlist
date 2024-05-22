@@ -1,0 +1,3 @@
+name: "云时空社会化商业ERP任意文件上传"
+poc: "/servlet/fileupload/gpy"
+status_code: 200

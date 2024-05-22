@@ -1,0 +1,3 @@
+name: "draytek路由器addrouting命令执行漏洞"
+poc: "/opmode.asp"
+status_code: 200

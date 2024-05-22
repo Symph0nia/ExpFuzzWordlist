@@ -1,0 +1,3 @@
+name: "Mingsoft-MCMS前台查询文章列表接口SQL注入(CNVD-2024-06148)"
+poc: "/cms/content/list.do"
+status_code: 200

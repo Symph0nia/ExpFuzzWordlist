@@ -1,0 +1,3 @@
+name: "Ivanti_Connect_Secure远程命令注入漏洞(CVE-2024-21887)"
+poc: "/systemController/showOrDownByurl.do"
+status_code: 200

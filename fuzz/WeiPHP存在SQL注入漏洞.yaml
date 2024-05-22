@@ -1,0 +1,3 @@
+name: "WeiPHP存在SQL注入漏洞"
+poc: "/public/index.php/weixin/message/_send_by_group"
+status_code: 200

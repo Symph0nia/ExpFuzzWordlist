@@ -1,0 +1,3 @@
+name: "Hytec Inter HWL-2511-SS popen.cgi命令注入漏洞"
+poc: "/cgi-bin/popen.cgi"
+status_code: 200

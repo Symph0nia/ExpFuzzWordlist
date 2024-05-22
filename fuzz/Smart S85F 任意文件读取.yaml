@@ -1,0 +1,3 @@
+name: "Smart S85F 任意文件读取"
+poc: "/log/decodmail.php"
+status_code: 200

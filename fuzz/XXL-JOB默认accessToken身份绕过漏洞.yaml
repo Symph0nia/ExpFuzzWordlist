@@ -1,0 +1,3 @@
+name: "XXL-JOB默认accessToken身份绕过漏洞"
+poc: "/run"
+status_code: 200

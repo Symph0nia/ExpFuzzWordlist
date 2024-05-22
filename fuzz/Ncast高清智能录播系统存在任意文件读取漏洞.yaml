@@ -1,0 +1,3 @@
+name: "Ncast高清智能录播系统存在任意文件读取漏洞"
+poc: "/developLog/downloadLog.php"
+status_code: 200

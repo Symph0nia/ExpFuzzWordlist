@@ -1,0 +1,3 @@
+name: "iDocView upload接口任意文件读取"
+poc: "/doc/upload"
+status_code: 200

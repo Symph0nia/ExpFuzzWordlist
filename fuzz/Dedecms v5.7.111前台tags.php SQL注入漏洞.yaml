@@ -1,0 +1,3 @@
+name: "Dedecms v5.7.111前台tags.php SQL注入漏洞"
+poc: "/tags.php"
+status_code: 200

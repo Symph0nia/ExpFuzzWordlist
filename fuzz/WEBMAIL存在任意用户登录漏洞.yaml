@@ -1,0 +1,3 @@
+name: "WEBMAIL存在任意用户登录漏洞"
+poc: "/RmWeb/noCookiesMail"
+status_code: 200

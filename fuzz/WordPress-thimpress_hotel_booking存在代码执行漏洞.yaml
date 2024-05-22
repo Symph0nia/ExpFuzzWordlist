@@ -1,0 +1,3 @@
+name: "WordPress-thimpress_hotel_booking存在代码执行漏洞"
+poc: "/wp-content/plugins/wp-hotel-booking"
+status_code: 200

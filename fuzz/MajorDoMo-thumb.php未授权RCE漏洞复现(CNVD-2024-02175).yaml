@@ -1,0 +1,3 @@
+name: "MajorDoMo-thumb.php未授权RCE漏洞复现(CNVD-2024-02175)"
+poc: "/modules/thumb/thumb.php"
+status_code: 200

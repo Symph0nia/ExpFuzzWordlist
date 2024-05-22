@@ -1,0 +1,3 @@
+name: "RG-UAC锐捷统一上网行为管理与审计系统存在远程代码执行漏洞"
+poc: "/view/vpn/autovpn/online_check.php"
+status_code: 200

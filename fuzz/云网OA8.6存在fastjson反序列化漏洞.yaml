@@ -1,0 +1,3 @@
+name: "云网OA8.6存在fastjson反序列化漏洞"
+poc: "/oa/setup/updateUiSetup"
+status_code: 200

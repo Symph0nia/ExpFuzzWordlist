@@ -1,0 +1,3 @@
+name: "Panel loadfile 后台文件读取漏洞"
+poc: "/api/v1/file/loadfile"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "万户 ezOFFICE DocumentEdit.jsp SQL注入"
+poc: "/defaultroot/iWebOfficeSign/OfficeServer.jsp"
+status_code: 200

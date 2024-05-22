@@ -1,0 +1,3 @@
+name: "亿赛通update接口sql注入"
+poc: "/CDGServer3/workflowE/useractivate/update.jsp"
+status_code: 200

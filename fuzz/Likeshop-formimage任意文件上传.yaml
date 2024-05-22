@@ -1,0 +1,3 @@
+name: "Likeshop-formimage任意文件上传"
+poc: "/api/file/formimage"
+status_code: 200

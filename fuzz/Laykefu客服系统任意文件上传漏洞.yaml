@@ -1,0 +1,3 @@
+name: "Laykefu客服系统任意文件上传漏洞"
+poc: "/admin/users/upavatar.html"
+status_code: 200

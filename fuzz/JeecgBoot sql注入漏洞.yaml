@@ -1,0 +1,3 @@
+name: "JeecgBoot SSTI 漏洞"
+poc: "/jeecgboot/jmreport/testConnection"
+status_code: 200

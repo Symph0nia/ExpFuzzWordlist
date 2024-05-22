@@ -1,0 +1,3 @@
+name: "X2Modbus网关GetUser接口存在信息泄漏漏洞"
+poc: "/soap/GetUser"
+status_code: 200

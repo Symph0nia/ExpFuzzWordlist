@@ -1,0 +1,3 @@
+name: "H3C 用户自助服务平台 dynamiccontent.properties.xhtml存在RCE漏洞"
+poc: "/mselfservice/javax.faces.resource/dynamiccontent.properties.xhtml"
+status_code: 200

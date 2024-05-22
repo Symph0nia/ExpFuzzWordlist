@@ -1,0 +1,3 @@
+name: "Smartbi 内置用户登陆绕过"
+poc: "/smartbi/vision/RMIServlet"
+status_code: 200

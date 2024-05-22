@@ -1,0 +1,3 @@
+name: "JeecgBoot sql注入漏洞"
+poc: "/jeecg-boot/jmreport/queryFieldBySql"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "亿赛通电子文档安全管理系统GetValidateLoginUserService接口存在XStream反序列化漏洞"
+poc: "/CDGServer3/GetValidateLoginUserService"
+status_code: 200

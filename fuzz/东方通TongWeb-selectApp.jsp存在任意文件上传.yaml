@@ -1,0 +1,3 @@
+name: "东方通TongWeb-selectApp.jsp存在任意文件上传"
+poc: "/heimdall/pages/cla/selectApp.jsp"
+status_code: 200

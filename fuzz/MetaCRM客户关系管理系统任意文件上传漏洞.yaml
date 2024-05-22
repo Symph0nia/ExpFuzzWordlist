@@ -1,0 +1,3 @@
+name: "MetaCRM客户关系管理系统任意文件上传漏洞"
+poc: "/develop/systparam/softlogo/upload.jsp"
+status_code: 200

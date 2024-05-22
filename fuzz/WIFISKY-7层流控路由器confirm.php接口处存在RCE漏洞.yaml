@@ -1,0 +1,3 @@
+name: "WIFISKY-7层流控路由器confirm.php接口处存在RCE漏洞"
+poc: "/notice/confirm.php"
+status_code: 200

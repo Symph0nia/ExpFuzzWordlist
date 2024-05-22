@@ -1,0 +1,3 @@
+name: "WordPress_Wholesale_Market插件存在任意文件读取漏洞"
+poc: "/wp-admin/admin-ajax.php"
+status_code: 200

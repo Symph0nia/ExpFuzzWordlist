@@ -1,0 +1,3 @@
+name: "IP-guard WebServer 远程命令执行漏洞"
+poc: "/ipg/static/appr/lib/flexpaper/php/view.php"
+status_code: 200
