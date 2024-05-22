@@ -1,0 +1,3 @@
+name: "好视通视频会议系统 toDownload.do接口任意文件读取漏洞"
+poc: "/register/toDownload.do"
+status_code: 200

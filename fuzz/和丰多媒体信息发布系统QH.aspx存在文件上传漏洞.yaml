@@ -1,0 +1,3 @@
+name: "和丰多媒体信息发布系统QH.aspx存在文件上传漏洞"
+poc: "/QH.aspx"
+status_code: 200

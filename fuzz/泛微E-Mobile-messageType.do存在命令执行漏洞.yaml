@@ -1,0 +1,3 @@
+name: "泛微E-Mobile-messageType.do存在命令执行漏洞"
+poc: "/messageType.do"
+status_code: 200

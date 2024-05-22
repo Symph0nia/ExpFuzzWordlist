@@ -1,0 +1,3 @@
+name: "方正畅享全媒体新闻采编系统binary.do存在SQL注入漏洞"
+poc: "/newsedit/newsplan/task/binary.do"
+status_code: 200

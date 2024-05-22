@@ -1,0 +1,3 @@
+name: "大华智慧园区综合管理平台 deleteFtp 远程命令执行漏洞"
+poc: "/portal/services/carQuery/getFaceCapture/searchJson"
+status_code: 200

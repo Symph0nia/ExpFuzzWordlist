@@ -1,0 +1,3 @@
+name: "大华智慧园区综合管理平台ipms接口存在远程代码执行漏洞"
+poc: "/ipms/barpay/pay"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "泛微E-Office10版本小于v10.0_20240222存在远程代码执行漏洞"
+poc: "/eoffice10/server/public/api/attachment/atuh-file"
+status_code: 200

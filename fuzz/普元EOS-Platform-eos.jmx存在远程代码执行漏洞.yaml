@@ -1,0 +1,3 @@
+name: "普元EOS-Platform-eos.jmx存在远程代码执行漏洞"
+poc: "/workspace/frame/permission/common/eos.jmx"
+status_code: 200

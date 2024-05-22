@@ -1,0 +1,3 @@
+name: "宏景HCM系统infoView处存在sql注入漏洞"
+poc: "/templates/attestation/../../general/info/view"
+status_code: 200

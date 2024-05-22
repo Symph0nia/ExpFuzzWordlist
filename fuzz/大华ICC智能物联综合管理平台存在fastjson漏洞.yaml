@@ -1,0 +1,3 @@
+name: "大华ICC智能物联综合管理平台存在fastjson漏洞"
+poc: "/evo-runs/v1.0/auths/sysusers/random"
+status_code: 200

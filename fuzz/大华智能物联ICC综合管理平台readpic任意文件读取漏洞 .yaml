@@ -1,0 +1,3 @@
+name: "大华智能物联ICC综合管理平台readpic任意文件读取漏洞"
+poc: "/evo-apigw/evo-cirs/file/readPic"
+status_code: 200

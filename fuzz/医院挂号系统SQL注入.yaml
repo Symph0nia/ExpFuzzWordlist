@@ -1,0 +1,3 @@
+name: "医院挂号系统SQL注入"
+poc: "/m/login.php"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "大华智慧园区综合管理平台bitmap接口存在任意文件上传漏洞"
+poc: "/emap/webservice/gis/soap/bitmap"
+status_code: 200

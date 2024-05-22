@@ -1,0 +1,3 @@
+name: "新视窗新一代物业管理系统任意文件上传漏洞"
+poc: "/OfficeManagement/RegisterManager/Upload.aspx"
+status_code: 200

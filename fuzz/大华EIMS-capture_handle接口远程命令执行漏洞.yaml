@@ -1,0 +1,3 @@
+name: "大华EIMS-capture_handle接口远程命令执行漏洞"
+poc: "/config/asst/system_setPassWordValidate.action/capture_handle.action"
+status_code: 200

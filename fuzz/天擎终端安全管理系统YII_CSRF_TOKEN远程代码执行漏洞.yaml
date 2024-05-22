@@ -1,0 +1,3 @@
+name: "天擎终端安全管理系统YII_CSRF_TOKEN远程代码执行漏洞"
+poc: "/runtime/state.bin"
+status_code: 200

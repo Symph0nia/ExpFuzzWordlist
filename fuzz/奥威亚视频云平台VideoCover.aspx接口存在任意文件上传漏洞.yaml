@@ -1,0 +1,3 @@
+name: "奥威亚视频云平台VideoCover.aspx接口存在任意文件上传漏洞"
+poc: "/Tools/Video/VideoCover.aspx"
+status_code: 200

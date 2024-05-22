@@ -1,0 +1,3 @@
+name: "易宝OA ExecuteSqlForSingle SQL注入漏洞"
+poc: "/api/system/ExecuteSqlForSingle"
+status_code: 200

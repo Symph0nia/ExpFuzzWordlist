@@ -1,0 +1,3 @@
+name: "明源云 ERP ApiUpdate.ashx 文件上传漏洞"
+poc: "/myunke/ApiUpdateTool/ApiUpdate.ashx"
+status_code: 200

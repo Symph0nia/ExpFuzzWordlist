@@ -1,0 +1,3 @@
+name: "微厦在线学习平台OrganSetup存在任意文件上传漏洞"
+poc: "/Manage/Admin/OrganSetup.aspx"
+status_code: 200

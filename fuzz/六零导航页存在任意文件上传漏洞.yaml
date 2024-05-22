@@ -1,0 +1,3 @@
+name: "六零导航页存在任意文件上传漏洞"
+poc: "/include/file.php"
+status_code: 200

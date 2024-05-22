@@ -1,0 +1,3 @@
+name: "奇安信360天擎getsimilarlistSQL注入漏洞"
+poc: "/api/client/getsimilarlist"
+status_code: 200

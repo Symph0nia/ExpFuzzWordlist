@@ -1,0 +1,3 @@
+name: "广联达OA任意用户登录"
+poc: "/WebService/Lk6SyncService/DirectToOthers/GetSSOStamp.asmx"
+status_code: 200

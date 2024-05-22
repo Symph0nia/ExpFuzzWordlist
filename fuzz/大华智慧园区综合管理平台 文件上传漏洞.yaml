@@ -1,0 +1,3 @@
+name: "大华智慧园区综合管理平台 文件上传漏洞"
+poc: "/publishing/publishing/material/file/video"
+status_code: 200

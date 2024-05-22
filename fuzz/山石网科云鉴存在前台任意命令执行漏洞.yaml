@@ -1,0 +1,3 @@
+name: "山石网科云鉴存在前台任意命令执行漏洞"
+poc: "/master/ajaxActions/setSystemTimeAction.php"
+status_code: 200

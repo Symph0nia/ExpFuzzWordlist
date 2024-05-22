@@ -1,0 +1,3 @@
+name: "大华智慧园区clientServer接口SQL注入漏洞"
+poc: "/portal/services/clientServer"
+status_code: 200

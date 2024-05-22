@@ -1,0 +1,3 @@
+name: "广州图创图书馆集群管理系统updOpuserPw接口存在SQL注入漏洞"
+poc: "/interlib3/service/sysop/updOpuserPw"
+status_code: 200

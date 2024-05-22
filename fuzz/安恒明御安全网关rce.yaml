@@ -1,0 +1,3 @@
+name: "安恒明御安全网关rce"
+poc: "/webui/?g=aaa_portal_auth_local_submit"
+status_code: 200

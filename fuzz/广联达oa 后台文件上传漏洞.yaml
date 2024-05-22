@@ -1,0 +1,3 @@
+name: "广联达oa 后台文件上传漏洞"
+poc: "/gtp/im/services/group/msgbroadcastuploadfile.aspx"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "某x服应用交付系统命令执行漏洞"
+poc: "/rep/login"
+status_code: 200

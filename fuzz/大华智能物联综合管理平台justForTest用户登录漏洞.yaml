@@ -1,0 +1,3 @@
+name: "大华智能物联综合管理平台justForTest用户登录漏洞"
+poc: "/evo-apigw/evo-oauth/oauth/token"
+status_code: 200

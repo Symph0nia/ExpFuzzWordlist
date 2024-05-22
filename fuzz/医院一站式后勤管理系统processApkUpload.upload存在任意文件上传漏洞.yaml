@@ -1,0 +1,3 @@
+name: "医院一站式后勤管理系统processApkUpload.upload存在任意文件上传漏洞"
+poc: "/ajaxinvoke/frameworkModuleJob.processApkUpload.upload"
+status_code: 200

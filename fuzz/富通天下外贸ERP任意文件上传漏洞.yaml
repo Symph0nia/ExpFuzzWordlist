@@ -1,0 +1,3 @@
+name: "富通天下外贸ERP任意文件上传漏洞"
+poc: "/JoinfApp/EMail/UploadEmailAttr"
+status_code: 200

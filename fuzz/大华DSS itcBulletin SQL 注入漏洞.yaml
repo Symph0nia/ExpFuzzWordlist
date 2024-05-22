@@ -1,0 +1,3 @@
+name: "大华DSS itcBulletin SQL 注入漏洞"
+poc: "/portal/services/itcBulletin"
+status_code: 200

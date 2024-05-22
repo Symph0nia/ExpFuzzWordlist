@@ -1,0 +1,3 @@
+name: "天钥网关前台SQL注入"
+poc: "/ops/index.php"
+status_code: 200

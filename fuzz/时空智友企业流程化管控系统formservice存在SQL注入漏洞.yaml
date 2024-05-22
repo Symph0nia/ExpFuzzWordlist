@@ -1,0 +1,3 @@
+name: "时空智友企业流程化管控系统formservice存在SQL注入漏洞"
+poc: "/formservice?service=workflow.sqlResult"
+status_code: 200

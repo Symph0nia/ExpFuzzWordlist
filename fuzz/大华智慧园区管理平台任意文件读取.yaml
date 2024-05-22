@@ -1,0 +1,3 @@
+name: "大华智慧园区管理平台任意文件读取"
+poc: "/portal/attachment_downloadByUrlAtt.action"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "广州图书馆集群系统WebBookNew存在SQL注入漏洞"
+poc: "/interlib/websearch/WebBookNew"
+status_code: 200

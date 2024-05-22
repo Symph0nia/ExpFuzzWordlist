@@ -1,0 +1,3 @@
+name: "易思智能物流无人值守系统5.0存在任意文件上传漏洞"
+poc: "/Sys_ReportFile/ImportReport"
+status_code: 200

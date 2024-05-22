@@ -1,0 +1,3 @@
+name: "大华DSS城市安防监控平台Struct2-045命令执行漏洞"
+poc: "/admin/login_login.action"
+status_code: 200

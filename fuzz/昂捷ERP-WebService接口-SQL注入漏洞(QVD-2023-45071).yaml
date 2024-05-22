@@ -1,0 +1,3 @@
+name: "昂捷ERP-WebService接口-SQL注入漏洞(QVD-2023-45071)"
+poc: "/EnjoyRMIS_WS/WS/APS/CWSFinanceCommon.asmx"
+status_code: 200

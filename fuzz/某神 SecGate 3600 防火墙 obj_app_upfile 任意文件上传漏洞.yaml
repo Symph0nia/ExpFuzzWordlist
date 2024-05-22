@@ -1,0 +1,3 @@
+name: "某神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞"
+poc: "/?g=obj_app_upfile"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "某和OA C6-GetSqlData.aspx SQL注入漏洞"
+poc: "/C6/Control/GetSqlData.aspx"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "奇安信天擎rptsvr任意文件上传"
+poc: "/rptsvr/upload"
+status_code: 200

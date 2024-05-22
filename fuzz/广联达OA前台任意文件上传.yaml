@@ -1,0 +1,3 @@
+name: "广联达OA前台任意文件上传"
+poc: "/Services/FileService/UserFiles/GetAuthorizeKey.ashx"
+status_code: 200

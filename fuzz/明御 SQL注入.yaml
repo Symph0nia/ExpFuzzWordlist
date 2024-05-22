@@ -1,0 +1,3 @@
+name: "明御 SQL注入"
+poc: "/caztbweb/VisitorWeb/VisitorWeb_XMLHTTP.aspx"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "天融信TOPSEC_static_convert远程命令执行漏洞"
+poc: "/view/IPV6/naborTable/static_convert.php"
+status_code: 200

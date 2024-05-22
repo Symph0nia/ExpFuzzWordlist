@@ -1,0 +1,3 @@
+name: "广州图创图书馆集群管理系统存在未授权访问"
+poc: "/interlib/common/SSOServlet"
+status_code: 200

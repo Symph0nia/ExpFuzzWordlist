@@ -1,0 +1,3 @@
+name: "泛微E-Cology系统接口SignatureDownLoad存在SQL注入漏洞"
+poc: "/weaver/weaver.file.SignatureDownLoad"
+status_code: 200

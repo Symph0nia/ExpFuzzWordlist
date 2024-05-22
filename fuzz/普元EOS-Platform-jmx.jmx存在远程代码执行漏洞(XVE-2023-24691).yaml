@@ -1,0 +1,3 @@
+name: "普元EOS-Platform-eos.jmx存在远程代码执行漏洞"
+poc: "/default/jmx.jmx"
+status_code: 200

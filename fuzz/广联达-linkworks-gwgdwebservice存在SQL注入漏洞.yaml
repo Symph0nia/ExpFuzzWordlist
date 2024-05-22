@@ -1,0 +1,3 @@
+name: "广联达-linkworks-gwgdwebservice存在SQL注入漏洞"
+poc: "/Org/service/Service.asmx/GetUserByEmployeeCode"
+status_code: 200

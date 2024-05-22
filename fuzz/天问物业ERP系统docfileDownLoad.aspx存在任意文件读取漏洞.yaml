@@ -1,0 +1,3 @@
+name: "天问物业ERP系统docfileDownLoad.aspx存在任意文件读取漏洞"
+poc: "/HM/M_Main/WorkGeneral/docfileDownLoad.aspx"
+status_code: 200

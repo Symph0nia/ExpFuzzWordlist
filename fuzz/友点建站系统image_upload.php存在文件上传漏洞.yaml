@@ -1,0 +1,3 @@
+name: "友点建站系统image_upload.php存在文件上传漏洞"
+poc: "/Public/ckeditor/plugins/multiimage/dialogs/image_upload.php"
+status_code: 200

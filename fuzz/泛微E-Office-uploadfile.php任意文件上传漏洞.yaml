@@ -1,0 +1,3 @@
+name: "泛微E-Office-uploadfile.php任意文件上传漏洞"
+poc: "/general/index/UploadFile.php"
+status_code: 200

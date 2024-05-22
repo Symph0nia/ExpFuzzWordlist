@@ -1,0 +1,3 @@
+name: "微擎-AccountEdit-file-upload文件上传漏洞"
+poc: "/User/AccountEdit.aspx"
+status_code: 200

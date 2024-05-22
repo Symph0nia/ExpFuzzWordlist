@@ -1,0 +1,3 @@
+name: "全程云OA__ajax.ashxSQL注入漏洞"
+poc: "/OA/common/mod/ajax.ashx"
+status_code: 200

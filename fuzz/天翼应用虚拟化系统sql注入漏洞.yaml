@@ -1,0 +1,3 @@
+name: "天翼应用虚拟化系统sql注入漏洞"
+poc: "/AgentBoard.XGI"
+status_code: 200

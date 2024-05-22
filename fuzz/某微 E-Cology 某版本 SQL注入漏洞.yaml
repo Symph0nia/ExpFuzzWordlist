@@ -1,0 +1,3 @@
+name: "某微 E-Cology 某版本 SQL注入漏洞"
+poc: "/dwr/call/plaincall/DocDwrUtil.ifNewsCheckOutByCurrentUser.dwr"
+status_code: 200

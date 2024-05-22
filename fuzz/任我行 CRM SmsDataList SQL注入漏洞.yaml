@@ -1,0 +1,3 @@
+name: "任我行 CRM SmsDataList SQL注入漏洞"
+poc: "/SMS/SmsDataList"
+status_code: 200

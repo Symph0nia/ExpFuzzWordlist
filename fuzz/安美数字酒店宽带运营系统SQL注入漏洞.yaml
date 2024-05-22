@@ -1,0 +1,3 @@
+name: "安美数字酒店宽带运营系统SQL注入漏洞"
+poc: "/language.php"
+status_code: 200
