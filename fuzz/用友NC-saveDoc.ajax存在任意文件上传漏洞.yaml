@@ -1,0 +1,3 @@
+name: "用友NC-saveDoc.ajax存在任意文件上传漏洞"
+poc: "/uapws/saveDoc.ajax"
+status_code: 200

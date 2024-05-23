@@ -1,0 +1,3 @@
+name: "用友U8-Cloud接口FileManageServlet存在反序列漏洞"
+poc: "/servlet/~uap/nc.impl.pub.filesystem.FileManageServlet"
+status_code: 200

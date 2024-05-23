@@ -1,0 +1,3 @@
+name: "用友GRP-U8-PayReturnForWcp接口存在XXE漏洞"
+poc: "/servlet/PayReturnForWcp"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "用友GRP-U8-userInfoWeb存在SQL注入"
+poc: "/services/userInfoWeb"
+status_code: 200

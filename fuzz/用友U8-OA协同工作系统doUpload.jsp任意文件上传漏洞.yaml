@@ -1,0 +1,3 @@
+name: "用友U8-OA协同工作系统doUpload.jsp任意文件上传漏洞"
+poc: "/yyoa/portal/tools/doUpload.jsp"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "用友GRP-U8-listSelectDialogServlet存在SQL注入"
+poc: "/listSelectDialogServlet"
+status_code: 200

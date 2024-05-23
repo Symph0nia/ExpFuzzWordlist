@@ -1,0 +1,3 @@
+name: "用友NC-runStateServlet接口存在SQL注入漏洞"
+poc: "/portal/pt/servlet/runStateServlet/doPost"
+status_code: 200

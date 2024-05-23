@@ -1,0 +1,3 @@
+name: "海翔ERP SQL注入漏洞"
+poc: "/getylist_login.do"
+status_code: 200

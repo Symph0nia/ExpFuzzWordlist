@@ -1,0 +1,3 @@
+name: "用友GRP-U8存在XML注入漏洞"
+poc: "/ufgovbank"
+status_code: 200

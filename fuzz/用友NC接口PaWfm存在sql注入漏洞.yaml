@@ -1,0 +1,3 @@
+name: "用友NC接口PaWfm存在sql注入漏洞"
+poc: "/portal/pt/PaWfm/open"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "用友 NC uapws wsdl XXE漏洞"
+poc: "/uapws/service/nc.uap.oba.update.IUpdateService"
+status_code: 200

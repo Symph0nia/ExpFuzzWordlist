@@ -1,0 +1,3 @@
+name: "用友移动管理平台uploadIcon任意文件上传漏洞"
+poc: "/maportal/appmanager/uploadIcon.do"
+status_code: 200

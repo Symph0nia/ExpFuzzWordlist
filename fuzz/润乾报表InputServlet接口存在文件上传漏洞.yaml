@@ -1,0 +1,3 @@
+name: "润乾报表InputServlet接口存在文件上传漏洞"
+poc: "/InputServlet"
+status_code: 200

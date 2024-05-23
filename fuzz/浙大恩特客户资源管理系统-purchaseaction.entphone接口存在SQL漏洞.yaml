@@ -1,0 +1,3 @@
+name: "浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞"
+poc: "/entsoft/PurchaseAction.entphone;.png"
+status_code: 200

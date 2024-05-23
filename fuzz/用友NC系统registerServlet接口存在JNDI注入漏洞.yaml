@@ -1,0 +1,3 @@
+name: "用友NC系统registerServlet接口存在JNDI注入漏洞"
+poc: "/portal/registerServlet"
+status_code: 200

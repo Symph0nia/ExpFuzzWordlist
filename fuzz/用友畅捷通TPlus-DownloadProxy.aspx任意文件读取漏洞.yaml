@@ -1,0 +1,3 @@
+name: "用友畅捷通TPlus-DownloadProxy.aspx任意文件读取漏洞"
+poc: "/tplus/SM/DTS/DownloadProxy.aspx"
+status_code: 200

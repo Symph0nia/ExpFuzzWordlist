@@ -1,0 +1,3 @@
+name: "用友时空KSOA-linkadd.jsp存在SQL注入漏洞"
+poc: "/linksframe/linkadd.jsp"
+status_code: 200

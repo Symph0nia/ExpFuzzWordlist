@@ -1,0 +1,3 @@
+name: "用友畅捷通CRM-create_site.phpSQL注入漏洞"
+poc: "/webservice/create_site.php"
+status_code: 200

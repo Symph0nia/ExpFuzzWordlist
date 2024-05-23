@@ -1,0 +1,3 @@
+name: "用友GRP-U8-operOriztion存在SQL注入漏洞"
+poc: "/services/operOriztion"
+status_code: 200

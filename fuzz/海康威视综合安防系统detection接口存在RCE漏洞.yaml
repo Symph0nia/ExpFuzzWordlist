@@ -1,0 +1,3 @@
+name: "海康威视综合安防系统detection接口存在RCE漏洞"
+poc: "/center/api/installation/detection"
+status_code: 200

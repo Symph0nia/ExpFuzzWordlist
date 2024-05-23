@@ -1,0 +1,3 @@
+name: "福建科立讯通信指挥调度管理平台ajax_users.php存在SQL注入漏洞"
+poc: "/app/ext/ajax_users.php"
+status_code: 200

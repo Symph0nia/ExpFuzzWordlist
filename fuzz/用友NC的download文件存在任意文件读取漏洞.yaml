@@ -1,0 +1,3 @@
+name: "用友NC的download文件存在任意文件读取漏洞"
+poc: "/portal/pt/xml/file/download"
+status_code: 200

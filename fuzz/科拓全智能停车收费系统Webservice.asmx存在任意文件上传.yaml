@@ -1,0 +1,3 @@
+name: "科拓全智能停车收费系统Webservice.asmx存在任意文件上传"
+poc: "/Webservice.asmx"
+status_code: 200

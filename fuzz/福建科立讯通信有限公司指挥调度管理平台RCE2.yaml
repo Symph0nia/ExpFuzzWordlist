@@ -1,0 +1,3 @@
+name: "福建科立讯通信有限公司指挥调度管理平台RCE2"
+poc: "/api/client/invite2videoconf.php"
+status_code: 200

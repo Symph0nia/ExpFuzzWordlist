@@ -1,0 +1,3 @@
+name: "禅道项目管理系统身份认证绕过漏洞"
+poc: "/biz/api.php"
+status_code: 200

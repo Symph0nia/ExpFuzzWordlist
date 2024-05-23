@@ -1,0 +1,3 @@
+name: "泛微getE9DevelopAllNameValue2接口存在任意文件读取漏洞"
+poc: "/api/portalTsLogin/utils/getE9DevelopAllNameValue2"
+status_code: 200

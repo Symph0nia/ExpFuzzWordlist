@@ -1,0 +1,3 @@
+name: "福建科立讯通信指挥调度平台get_extension_yl.php存在sql注入漏洞"
+poc: "/api/client/get_extension_yl.php"
+status_code: 200

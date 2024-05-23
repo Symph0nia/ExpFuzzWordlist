@@ -1,0 +1,3 @@
+name: "海康威视iVMS综合安防系统resourceOperations接口任意文件上传漏洞"
+poc: "/eps/api/resourceOperations/upload"
+status_code: 200

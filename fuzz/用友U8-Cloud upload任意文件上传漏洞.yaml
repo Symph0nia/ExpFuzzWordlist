@@ -1,0 +1,3 @@
+name: "用友U8-Cloud upload任意文件上传漏洞"
+poc: "/linux/pages/upload.jsp"
+status_code: 200

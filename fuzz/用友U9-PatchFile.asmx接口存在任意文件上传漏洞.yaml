@@ -1,0 +1,3 @@
+name: "用友U9-PatchFile.asmx接口存在任意文件上传漏洞"
+poc: "/CS/Office/AutoUpdates/PatchFile.asmx"
+status_code: 200

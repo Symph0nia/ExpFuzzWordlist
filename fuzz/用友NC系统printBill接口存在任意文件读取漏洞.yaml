@@ -1,0 +1,3 @@
+name: "用友NC系统printBill接口存在任意文件读取漏洞"
+poc: "/portal/pt/printpdf/printBill"
+status_code: 200

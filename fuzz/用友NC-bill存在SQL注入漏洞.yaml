@@ -1,0 +1,3 @@
+name: "用友NC-bill存在SQL注入漏洞"
+poc: "/portal/pt/erfile/down/bill"
+status_code: 200

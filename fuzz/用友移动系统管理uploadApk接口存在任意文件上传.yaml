@@ -1,0 +1,3 @@
+name: "用友移动系统管理uploadApk接口存在任意文件上传"
+poc: "/maportal/appmanager/uploadApk.dopk_obj="
+status_code: 200

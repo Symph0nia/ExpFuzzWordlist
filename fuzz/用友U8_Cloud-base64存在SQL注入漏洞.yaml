@@ -1,0 +1,3 @@
+name: "用友U8_Cloud-base64存在SQL注入漏洞"
+poc: "/u8cloud/api/file/upload/base64"
+status_code: 200

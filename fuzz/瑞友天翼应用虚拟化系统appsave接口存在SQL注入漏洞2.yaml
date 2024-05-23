@@ -1,0 +1,3 @@
+name: "瑞友天翼应用虚拟化系统appsave接口存在SQL注入漏洞2"
+poc: "/Admin/appdel"
+status_code: 200

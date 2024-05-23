@@ -1,0 +1,3 @@
+name: "泛微e-cology9_SQL注入-CNVD-2023-12632"
+poc: "/mobile/%20/plugin/browser.jsp"
+status_code: 200

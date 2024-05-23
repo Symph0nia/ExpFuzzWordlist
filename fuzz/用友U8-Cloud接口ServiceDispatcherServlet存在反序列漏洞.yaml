@@ -1,0 +1,3 @@
+name: "用友U8-Cloud接口ServiceDispatcherServlet存在反序列漏洞"
+poc: "/ServiceDispatcherServlet"
+status_code: 200

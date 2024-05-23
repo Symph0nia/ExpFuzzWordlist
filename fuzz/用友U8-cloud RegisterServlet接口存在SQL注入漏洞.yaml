@@ -1,0 +1,3 @@
+name: "用友U8-cloud RegisterServlet接口存在SQL注入漏洞"
+poc: "/servlet/RegisterServlet"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "用友U8cloud-ExportUfoFormatAction存在SQL注入漏洞"
+poc: "/service/~iufo/com.ufida.web.action.ActionServlet"
+status_code: 200

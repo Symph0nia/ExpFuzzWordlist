@@ -1,0 +1,3 @@
+name: "用友NC-Cloud uploadChunk 任意文件上传漏洞"
+poc: "/ncchr/pm/fb/attachment/uploadChunk"
+status_code: 200

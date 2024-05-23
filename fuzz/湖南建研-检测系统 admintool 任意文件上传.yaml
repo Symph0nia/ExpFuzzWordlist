@@ -1,0 +1,3 @@
+name: "湖南建研-检测系统 admintool 任意文件上传"
+poc: "/Scripts/admintool"
+status_code: 200

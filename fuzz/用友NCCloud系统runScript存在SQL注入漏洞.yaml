@@ -1,0 +1,3 @@
+name: "用友NCCloud系统runScript存在SQL注入漏洞"
+poc: "/ncchr/attendScript/internal/runScript"
+status_code: 200

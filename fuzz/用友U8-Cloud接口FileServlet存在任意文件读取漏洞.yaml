@@ -1,0 +1,3 @@
+name: "用友U8-Cloud接口FileServlet存在任意文件读取漏洞"
+poc: "/service/~hrpub/nc.bs.hr.tools.trans.FileServlet"
+status_code: 200

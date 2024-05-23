@@ -1,0 +1,3 @@
+name: "瑞友应用虚拟化系统-RAPAgent存在命令执行漏洞"
+poc: "/RAPAgent.XGI"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "浙大恩特客户资源管理系统crmbasicaction任意文件上传"
+poc: "/entsoft/CrmBasicAction.entcrm"
+status_code: 200

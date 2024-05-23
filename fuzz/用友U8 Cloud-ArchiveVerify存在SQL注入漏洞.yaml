@@ -1,0 +1,3 @@
+name: "用友U8 Cloud-ArchiveVerify存在SQL注入漏洞"
+poc: "/u8cuapws/rest/archive/verify"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "深信服数据中心管理系统 XML 实体注入漏洞"
+poc: "/src/sangforindex"
+status_code: 200

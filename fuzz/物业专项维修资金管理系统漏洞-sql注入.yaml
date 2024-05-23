@@ -1,0 +1,3 @@
+name: "物业专项维修资金管理系统漏洞-sql注入"
+poc: "/property/propertyRightAlteration/printManyPdf"
+status_code: 200

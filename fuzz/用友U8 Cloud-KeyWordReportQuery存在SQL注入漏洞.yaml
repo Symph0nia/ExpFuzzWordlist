@@ -1,0 +1,3 @@
+name: "用友U8 Cloud-KeyWordReportQuery存在SQL注入漏洞"
+poc: "/service/~iufo/nc.itf.iufo.mobilereport.data.KeyWordReportQuery"
+status_code: 200

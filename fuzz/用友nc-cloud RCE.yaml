@@ -1,0 +1,3 @@
+name: "用友nc-cloud RCE"
+poc: "/uapjs/jsinvoke"
+status_code: 200

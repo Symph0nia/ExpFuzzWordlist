@@ -1,0 +1,3 @@
+name: "用友GRP-U8-FileUpload任意文件上传"
+poc: "/servlet/FileUpload"
+status_code: 200

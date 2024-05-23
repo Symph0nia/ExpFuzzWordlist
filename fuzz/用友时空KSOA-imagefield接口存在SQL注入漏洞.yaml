@@ -1,0 +1,3 @@
+name: "用友时空KSOA-imagefield接口存在SQL注入漏洞"
+poc: "/servlet/imagefield"
+status_code: 200

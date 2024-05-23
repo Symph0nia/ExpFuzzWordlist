@@ -1,0 +1,3 @@
+name: "用友NC-avatar接口存在文件上传漏洞"
+poc: "/uapim/upload/avatar"
+status_code: 200

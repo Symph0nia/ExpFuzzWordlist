@@ -1,0 +1,3 @@
+name: "用友 GRP-U8 bx_historyDataCheck.jsp SQL注入漏洞"
+poc: "/u8qx/bx_historyDataCheck.jsp"
+status_code: 200

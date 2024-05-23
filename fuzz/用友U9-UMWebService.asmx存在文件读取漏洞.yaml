@@ -1,0 +1,3 @@
+name: "用友U9-UMWebService.asmx存在文件读取漏洞"
+poc: "/u9/OnLine/UMWebService.asmx"
+status_code: 200

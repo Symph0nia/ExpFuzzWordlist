@@ -1,0 +1,3 @@
+name: "浙大恩特客户资源管理系统T0140_editAction.entweb;.js接口sql注入漏洞"
+poc: "/entsoft/T0140_editAction.entweb;.js"
+status_code: 200

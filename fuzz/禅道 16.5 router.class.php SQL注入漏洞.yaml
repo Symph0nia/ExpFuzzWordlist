@@ -1,0 +1,3 @@
+name: "禅道 16.5 router.class.php SQL注入漏洞"
+poc: "/user-login.html"
+status_code: 200

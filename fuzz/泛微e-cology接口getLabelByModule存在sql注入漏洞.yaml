@@ -1,0 +1,3 @@
+name: "泛微e-cology接口getLabelByModule存在sql注入漏洞"
+poc: "/api/ec/dev/locale/getLabelByModule"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "电信网关配置管理后台ipping.php存在命令执行漏洞"
+poc: "/manager/ipping.php"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "科拓全智能停车收费系统DoubtCarNoListFrom.aspx存在SQL注入漏洞"
+poc: "/KT_Admin/CarCard/DoubtCarNoListFrom.aspx"
+status_code: 200

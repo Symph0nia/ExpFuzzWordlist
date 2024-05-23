@@ -1,0 +1,3 @@
+name: "泛微e-cology-ProcessOverRequestByXml接口存在任意文件读取漏洞"
+poc: "/rest/ofs/ProcessOverRequestByXml"
+status_code: 200

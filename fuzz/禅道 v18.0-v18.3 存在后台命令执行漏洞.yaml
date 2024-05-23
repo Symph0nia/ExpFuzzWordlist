@@ -1,0 +1,3 @@
+name: "禅道 v18.0-v18.3 存在后台命令执行漏洞"
+poc: "/zentaopms/www/index.php"
+status_code: 200

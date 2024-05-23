@@ -1,0 +1,3 @@
+name: "畅捷通TPlus-App_Code.ashx存在远程命令执行漏洞"
+poc: "/tplus/ajaxpro/Ufida.T.CodeBehind._PriorityLevel,App_Code.ashx?method=GetStoreWarehouseByStore"
+status_code: 200

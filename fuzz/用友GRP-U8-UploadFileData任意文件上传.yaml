@@ -1,0 +1,3 @@
+name: "用友GRP-U8-UploadFileData任意文件上传"
+poc: "/UploadFileData"
+status_code: 200

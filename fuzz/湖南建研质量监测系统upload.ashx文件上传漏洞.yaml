@@ -1,0 +1,3 @@
+name: "湖南建研质量监测系统upload.ashx文件上传漏洞"
+poc: "/Applications/Attachment/upload.ashx"
+status_code: 200

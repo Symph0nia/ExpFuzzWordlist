@@ -1,0 +1,3 @@
+name: "用友NC-uploadControl接口存在文件上传漏洞"
+poc: "/mp/login/../uploadControl/uploadFile"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "用友GRP-U8日志泄漏漏洞"
+poc: "/logs/debug.log"
+status_code: 200

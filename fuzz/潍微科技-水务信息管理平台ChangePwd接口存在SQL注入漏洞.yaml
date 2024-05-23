@@ -1,0 +1,3 @@
+name: "潍微科技-水务信息管理平台ChangePwd接口存在SQL注入漏洞"
+poc: "/Account/ChangePwd"
+status_code: 200

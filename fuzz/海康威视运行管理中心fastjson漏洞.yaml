@@ -1,0 +1,3 @@
+name: "海康威视运行管理中心fastjson漏洞"
+poc: "/center/api/session"
+status_code: 200

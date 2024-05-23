@@ -1,0 +1,3 @@
+name: "用友U8-Cloud-TableInputOperServlet存在反序列化漏洞"
+poc: "/service/~iufo/com.ufsoft.iuforeport.tableinput.TableInputOperServlet"
+status_code: 200

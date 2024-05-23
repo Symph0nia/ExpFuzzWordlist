@@ -1,0 +1,3 @@
+name: "用友U8-nc.bs.sm.login2.RegisterServlet存在SQL注入漏洞"
+poc: "/servlet/~uap/nc.bs.sm.login2.RegisterServlet"
+status_code: 200

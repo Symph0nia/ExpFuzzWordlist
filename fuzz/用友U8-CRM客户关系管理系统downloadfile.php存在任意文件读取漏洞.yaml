@@ -1,0 +1,3 @@
+name: "用友U8-CRM客户关系管理系统downloadfile.php存在任意文件读取漏洞"
+poc: "/pub/downloadfile.php"
+status_code: 200
