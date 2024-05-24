@@ -1,0 +1,3 @@
+name: "红帆ioffice-udfGetDocStep.asmx存在SQL注入漏洞"
+poc: "/ioffice/prg/interface/udfGetDocStep.asmx"
+status_code: 200

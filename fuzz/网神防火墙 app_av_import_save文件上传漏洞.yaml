@@ -1,0 +1,3 @@
+name: "网神防火墙 app_av_import_save文件上传漏洞"
+poc: "/?g=app_av_import_save"
+status_code: 200

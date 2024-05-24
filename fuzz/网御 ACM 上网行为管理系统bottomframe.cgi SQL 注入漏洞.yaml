@@ -1,0 +1,3 @@
+name: "网御 ACM 上网行为管理系统bottomframe.cgi SQL 注入漏洞"
+poc: "/bottomframe.cgi"
+status_code: 200

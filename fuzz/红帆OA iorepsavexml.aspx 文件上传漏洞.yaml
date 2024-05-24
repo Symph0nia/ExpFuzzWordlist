@@ -1,0 +1,3 @@
+name: "红帆OA iorepsavexml.aspx 文件上传漏洞"
+poc: "/ioffice/prg/set/report/iorepsavexml.aspx"
+status_code: 200

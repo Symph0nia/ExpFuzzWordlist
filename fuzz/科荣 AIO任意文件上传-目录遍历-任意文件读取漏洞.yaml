@@ -1,0 +1,3 @@
+name: "科荣 AIO任意文件上传-目录遍历-任意文件读取漏洞"
+poc: "/ReportServlet"
+status_code: 200

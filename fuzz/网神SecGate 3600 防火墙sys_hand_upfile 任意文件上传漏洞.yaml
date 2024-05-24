@@ -1,0 +1,3 @@
+name: "网神SecGate 3600 防火墙sys_hand_upfile 任意文件上传漏洞"
+poc: "/?g=sys_hand_upfile"
+status_code: 200

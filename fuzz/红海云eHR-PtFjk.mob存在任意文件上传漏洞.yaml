@@ -1,0 +1,3 @@
+name: "红海云eHR-PtFjk.mob存在任意文件上传漏洞"
+poc: "/RedseaPlatform/PtFjk.mob"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "网络验证系统getInfo参数存在SQL注入漏洞"
+poc: "/index.php/api/Software/getInfo"
+status_code: 200

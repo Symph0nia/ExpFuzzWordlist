@@ -1,0 +1,3 @@
+name: "红帆OA zyy_AttFile.asmx SQL注入漏洞"
+poc: "/ioffice/prg/interface/zyy_AttFile.asmx"
+status_code: 200

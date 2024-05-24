@@ -1,0 +1,3 @@
+name: "网动统一通信平台ActiveUC存在任意文件下载漏洞"
+poc: "/acenter/meetingShow!downloadDocument.action"
+status_code: 200

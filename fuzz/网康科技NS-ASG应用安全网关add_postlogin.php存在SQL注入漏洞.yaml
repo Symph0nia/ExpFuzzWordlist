@@ -1,0 +1,3 @@
+name: "网康科技NS-ASG应用安全网关add_postlogin.php存在SQL注入漏洞"
+poc: "/admin/add_postlogin.php"
+status_code: 200

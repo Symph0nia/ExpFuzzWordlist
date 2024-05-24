@@ -1,0 +1,3 @@
+name: "绿盟日志审计系统存在命令执行漏洞"
+poc: "/api/v1/login"
+status_code: 200
