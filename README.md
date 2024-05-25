@@ -1,13 +1,23 @@
 # ExpFuzzWordlist
 ExpFuzz字典
 
-# 管那么多干嘛，你先扫。
+## 使用方法：
 
-# 不是我不帮你，你先扫了再说。
+```shell
+go build main.go
+```
 
-# 你扫就行了，扫不出来我也没办法啊。
+```shell
+# 对指定的url进行扫描
+./main -u <url>
+```
 
-# 扫不出来？那寄了。
+```shell
+# 导出所有的poc路径
+./main -t <filename>.txt
+```
+
+导出的poc可以使用ffuf、dirsearch等工具进行扫描。
 
 ## 本项目参考以下项目：
 

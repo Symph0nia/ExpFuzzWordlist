@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
@@ -9,6 +10,7 @@ import (
 	"net/url"
 	"os"
 	"path/filepath"
+	"strings"
 )
 
 // URLConfig 结构体用于表示YAML文件中的配置
@@ -78,11 +80,26 @@ func sendHTTPRequest(name, baseURL, poc string, expectedStatusCode int) {
 	}
 }
 
+// writePocsToFile 将所有POC写入文本文件
+func writePocsToFile(configs []URLConfig, filePath string) error {
+	var pocs []string
+	for _, config := range configs {
+		pocs = append(pocs, config.Poc)
+	}
+
+	content := strings.Join(pocs, "\n")
+
+	return ioutil.WriteFile(filePath, []byte(content), 0644)
+}
+
 func main() {
+	// 从命令行解析参数
+	baseURL := flag.String("u", "", "指定基URL")
+	outputFile := flag.String("t", "", "将POC输出到指定的文本文件")
+	flag.Parse()
+
 	// 指定目标目录
 	dir := "./fuzz"
-	// 基URL
-	baseURL := "http://example.com"
 
 	// 读取YAML文件
 	configs, err := readYAMLFiles(dir)
@@ -90,8 +107,23 @@ func main() {
 		log.Fatalf("读取YAML文件失败: %v\n", err)
 	}
 
+	// 如果指定了输出文件，则写入POC到文件
+	if *outputFile != "" {
+		err := writePocsToFile(configs, *outputFile)
+		if err != nil {
+			log.Fatalf("写入POC到文件失败: %v\n", err)
+		}
+		fmt.Printf("所有POC已写入文件 %s\n", *outputFile)
+		return
+	}
+
+	// 如果未指定基URL，则提示错误并退出
+	if *baseURL == "" {
+		log.Fatal("必须指定基URL (-u 参数)")
+	}
+
 	// 对每个URL发送HTTP请求
 	for _, config := range configs {
-		sendHTTPRequest(config.Name, baseURL, config.Poc, config.StatusCode)
+		sendHTTPRequest(config.Name, *baseURL, config.Poc, config.StatusCode)
 	}
 }
