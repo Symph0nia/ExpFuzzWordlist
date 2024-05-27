@@ -1,0 +1,3 @@
+name: "锐捷-EG易网关存在RCE漏洞"
+poc: "/cli.php"
+status_code: 200

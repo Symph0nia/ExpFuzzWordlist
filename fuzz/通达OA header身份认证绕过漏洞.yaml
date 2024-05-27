@@ -1,0 +1,3 @@
+name: "通达OA header身份认证绕过漏洞"
+poc: "/module/retrieve_pwd/header.inc.php"
+status_code: 200

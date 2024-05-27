@@ -1,0 +1,3 @@
+name: "英飞达医学影像存档与通信系统WebJobUpload任意文件上传漏洞"
+poc: "/webservices/WebJobUpload.asmx"
+status_code: 200

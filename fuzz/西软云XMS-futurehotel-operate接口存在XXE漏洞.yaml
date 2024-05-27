@@ -1,0 +1,3 @@
+name: "西软云XMS-futurehotel-operate接口存在XXE漏洞"
+poc: "/XopServerRS/rest/futurehotel/operate"
+status_code: 200

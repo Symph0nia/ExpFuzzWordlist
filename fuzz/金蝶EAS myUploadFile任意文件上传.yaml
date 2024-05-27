@@ -1,0 +1,3 @@
+name: "金蝶EAS myUploadFile任意文件上传"
+poc: "/easportal/buffalo/%2e%2e/cm/myUploadFile.do"
+status_code: 200

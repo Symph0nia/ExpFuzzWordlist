@@ -1,0 +1,3 @@
+name: "金蝶OA-EAS系统 uploadLogo.action 任意文件上传漏洞"
+poc: "/plt_portal/setting/uploadLogo.action"
+status_code: 200

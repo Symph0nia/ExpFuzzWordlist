@@ -1,0 +1,3 @@
+name: "通天星CMSV6车载定位监控平台SQL注入漏洞(XVE-2023-23744)"
+poc: "/run_stop/delete.do;downloadLogger.action"
+status_code: 200

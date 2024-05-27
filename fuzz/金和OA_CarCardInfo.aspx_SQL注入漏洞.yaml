@@ -1,0 +1,3 @@
+name: "金和OA_CarCardInfo.aspx_SQL注入漏洞"
+poc: "/c6/JHSoft.Web.Vehicle/CarCardInfo.aspx/"
+status_code: 200

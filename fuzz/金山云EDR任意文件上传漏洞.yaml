@@ -1,0 +1,3 @@
+name: "金山云EDR任意文件上传漏洞"
+poc: "/softmanagement/distribute/save_tools.php"
+status_code: 200

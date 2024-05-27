@@ -1,0 +1,3 @@
+name: "脸爱云一脸通智慧平台SelOperators信息泄露漏洞"
+poc: "/SystemMng.ashx"
+status_code: 200

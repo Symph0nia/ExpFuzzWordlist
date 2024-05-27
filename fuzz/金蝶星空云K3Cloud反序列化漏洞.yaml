@@ -1,0 +1,3 @@
+name: "金蝶星空云K3Cloud反序列化漏洞"
+poc: "/K3Cloud/Kingdee.BOS.ServiceFacade.ServicesStub.DevReportService.GetBusinessObjectData.common.kdsvc"
+status_code: 200

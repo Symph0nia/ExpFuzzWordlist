@@ -1,0 +1,3 @@
+name: "蓝凌EKP前台授权绕过导致文件上传"
+poc: "/api///sys/ui/sys_ui_extend/sysUiExtend.do?method=upload"
+status_code: 200

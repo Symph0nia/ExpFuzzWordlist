@@ -1,0 +1,3 @@
+name: "金和OA_jc6_Upload任意文件上传"
+poc: "/jc6/servlet/Upload"
+status_code: 200

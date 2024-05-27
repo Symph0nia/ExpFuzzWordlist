@@ -1,0 +1,3 @@
+name: "金和OA_uploadfileeditorsave接口存在任意文件上传漏洞"
+poc: "/C6/Control/UploadFileEditorSave.aspx"
+status_code: 200

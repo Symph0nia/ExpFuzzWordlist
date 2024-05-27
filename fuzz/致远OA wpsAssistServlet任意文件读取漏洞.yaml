@@ -1,0 +1,3 @@
+name: "致远OA wpsAssistServlet任意文件读取漏洞"
+poc: "/seeyon/wpsAssistServlet"
+status_code: 200

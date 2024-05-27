@@ -1,0 +1,3 @@
+name: "通天星CMSV6车载视频监控平台xz_center信息泄露漏洞"
+poc: "/xz_center/list"
+status_code: 200

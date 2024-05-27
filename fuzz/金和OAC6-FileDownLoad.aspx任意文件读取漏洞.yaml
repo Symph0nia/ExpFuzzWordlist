@@ -1,0 +1,3 @@
+name: "金和OAC6-FileDownLoad.aspx任意文件读取漏洞"
+poc: "/c6/JHSoft.Web.CustomQuery/FileDownLoad.aspx"
+status_code: 200

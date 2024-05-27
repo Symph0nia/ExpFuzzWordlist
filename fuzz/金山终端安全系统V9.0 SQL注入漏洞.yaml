@@ -1,0 +1,3 @@
+name: "金山终端安全系统V9.0 SQL注入漏洞"
+poc: "/inter/update_software_info_v2.php"
+status_code: 200

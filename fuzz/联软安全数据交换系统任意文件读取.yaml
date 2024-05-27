@@ -1,0 +1,3 @@
+name: "联软安全数据交换系统任意文件读取"
+poc: "/UniExServices/poserver.zz"
+status_code: 200

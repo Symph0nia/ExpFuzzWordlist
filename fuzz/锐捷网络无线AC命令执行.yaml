@@ -1,0 +1,3 @@
+name: "锐捷网络无线AC命令执行"
+poc: "/web_action.do"
+status_code: 200

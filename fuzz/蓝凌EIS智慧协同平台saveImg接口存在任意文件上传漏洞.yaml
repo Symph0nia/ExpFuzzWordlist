@@ -1,0 +1,3 @@
+name: "蓝凌EIS智慧协同平台saveImg接口存在任意文件上传漏洞"
+poc: "/eis/service/api.aspx"
+status_code: 200

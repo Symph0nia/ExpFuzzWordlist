@@ -1,0 +1,3 @@
+name: "金蝶OA云星空 ScpSupRegHandler 任意文件上传漏洞"
+poc: "/k3cloud/SRM/ScpSupRegHandler"
+status_code: 200

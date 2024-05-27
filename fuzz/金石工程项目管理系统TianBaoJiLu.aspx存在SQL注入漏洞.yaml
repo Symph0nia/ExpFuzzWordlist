@@ -1,0 +1,3 @@
+name: "金石工程项目管理系统TianBaoJiLu.aspx存在SQL注入漏洞"
+poc: "/query/shigongjihuajindu/TianBaoJiLu.aspx"
+status_code: 200

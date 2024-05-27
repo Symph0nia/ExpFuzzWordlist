@@ -1,0 +1,3 @@
+name: "蓝凌OAsysUiComponent 文件存在任意文件上传漏洞"
+poc: "/sys/ui/sys_ui_component/sysUiComponent.do?method=getThemeInfo&s_ajax=true"
+status_code: 200

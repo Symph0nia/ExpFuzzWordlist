@@ -1,0 +1,3 @@
+name: "联想网盘存在任意文件上传漏洞"
+poc: "/write"
+status_code: 200

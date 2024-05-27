@@ -1,0 +1,3 @@
+name: "锐捷 NBR 路由器 fileupload.php 任意文件上传漏洞"
+poc: "/ddi/server/fileupload.php"
+status_code: 200

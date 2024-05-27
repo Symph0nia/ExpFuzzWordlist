@@ -1,0 +1,3 @@
+name: "西软云XMS反序列化漏洞"
+poc: "/fox-invoker/FoxLookupInvoker/?return-exception=true"
+status_code: 200

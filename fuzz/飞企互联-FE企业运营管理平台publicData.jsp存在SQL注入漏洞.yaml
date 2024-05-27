@@ -1,0 +1,3 @@
+name: "飞企互联-FE企业运营管理平台publicData.jsp存在SQL注入漏洞"
+poc: "/oaerp/ui/common/publicData.js"
+status_code: 200

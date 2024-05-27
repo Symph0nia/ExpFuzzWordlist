@@ -1,0 +1,3 @@
+name: "致远互联-OA前台fileUpload.do存在绕过文件上传漏洞"
+poc: "/seeyon/autoinstall.do/../../seeyon/fileUpload.do?method=processUpload"
+status_code: 200

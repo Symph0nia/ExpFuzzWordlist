@@ -1,0 +1,3 @@
+name: "蓝海卓越计费管理系统SQL注入漏洞"
+poc: "/ajax/loaduser.php"
+status_code: 200

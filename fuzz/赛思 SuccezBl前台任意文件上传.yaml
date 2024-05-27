@@ -1,0 +1,3 @@
+name: "赛思 SuccezBl前台任意文件上传"
+poc: "/succezbi/sz/commons/form/file/uploadChunkFile"
+status_code: 200

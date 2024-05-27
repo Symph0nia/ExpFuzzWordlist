@@ -1,0 +1,3 @@
+name: "蓝凌EIS智慧协同平台rpt_listreport_definefield.aspx接口存在SQL注入漏洞"
+poc: "/SM/rpt_listreport_definefield.aspx"
+status_code: 200

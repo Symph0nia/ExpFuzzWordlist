@@ -1,0 +1,3 @@
+name: "铭飞CMS-search接口存在sql注入漏洞"
+poc: "/mcms/search.do"
+status_code: 200

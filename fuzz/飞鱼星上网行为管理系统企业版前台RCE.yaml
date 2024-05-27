@@ -1,0 +1,3 @@
+name: "飞鱼星上网行为管理系统企业版前台RCE"
+poc: "/send_order.cgi?parameter=operation"
+status_code: 200

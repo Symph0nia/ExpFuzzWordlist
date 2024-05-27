@@ -1,0 +1,3 @@
+name: "速达软件全系产品存在任意文件上传漏洞"
+poc: "/report/DesignReportSave.jsp"
+status_code: 200

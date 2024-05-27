@@ -1,0 +1,3 @@
+name: "飞企互联-FE企业运营管理平台uploadAttachmentServlet存在任意文件上传漏洞"
+poc: "/servlet/uploadAttachmentServlet"
+status_code: 200

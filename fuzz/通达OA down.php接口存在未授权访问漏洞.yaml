@@ -1,0 +1,3 @@
+name: "通达OA down.php接口存在未授权访问漏洞"
+poc: "/inc/package/down.php"
+status_code: 200

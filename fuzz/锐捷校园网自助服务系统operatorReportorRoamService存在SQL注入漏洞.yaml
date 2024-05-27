@@ -1,0 +1,3 @@
+name: "锐捷校园网自助服务系统operatorReportorRoamService存在SQL注入漏洞"
+poc: "/selfservice/service/operatorReportorRoamService"
+status_code: 200

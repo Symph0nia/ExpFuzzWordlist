@@ -1,0 +1,3 @@
+name: "金和OA jc6 clobfield SQL注入漏洞"
+poc: "/jc6/servlet/clobfield"
+status_code: 200

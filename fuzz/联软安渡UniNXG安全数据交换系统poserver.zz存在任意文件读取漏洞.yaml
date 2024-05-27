@@ -1,0 +1,3 @@
+name: "联软安渡UniNXG安全数据交换系统poserver.zz存在任意文件读取漏洞"
+poc: "/UniExServices/poserver.zz"
+status_code: 200

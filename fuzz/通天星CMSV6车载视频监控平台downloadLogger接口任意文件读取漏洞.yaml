@@ -1,0 +1,3 @@
+name: "通天星CMSV6车载视频监控平台downloadLogger接口任意文件读取漏洞"
+poc: "/808gps/logger/downloadLogger.action"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "金蝶云-星空ServiceGateway反序列化漏洞"
+poc: "/Kingdee.BOS.ServiceFacade.ServicesStub.ServiceGateway.GetServiceUri.common.kdsvc"
+status_code: 200

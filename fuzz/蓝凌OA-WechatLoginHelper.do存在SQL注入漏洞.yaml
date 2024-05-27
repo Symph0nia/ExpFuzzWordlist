@@ -1,0 +1,3 @@
+name: "蓝凌OA-WechatLoginHelper.do存在SQL注入漏洞"
+poc: "/third/wechat/wechatLoginHelper.do"
+status_code: 200

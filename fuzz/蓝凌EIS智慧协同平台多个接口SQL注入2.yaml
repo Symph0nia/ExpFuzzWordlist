@@ -1,0 +1,3 @@
+name: "蓝凌EIS智慧协同平台多个接口SQL注入2"
+poc: "/frm/frm_button_func.aspx"
+status_code: 200

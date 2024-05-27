@@ -1,0 +1,3 @@
+name: "通天星-CMSV6-inspect_file-upload存在任意文件上传漏洞"
+poc: "/inspect_file/upload"
+status_code: 200

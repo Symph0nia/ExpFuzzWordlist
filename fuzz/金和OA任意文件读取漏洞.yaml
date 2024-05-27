@@ -1,0 +1,3 @@
+name: "金和OA任意文件读取漏洞"
+poc: "/C6/JHSoft.WCF/FunctionNew/FileUploadMessage.aspx"
+status_code: 200

@@ -1,0 +1,3 @@
+name: "金盘移动图书馆系统存在任意文件上传漏洞"
+poc: "/pages/admin/tools/uploadFile/doUpload.jsp"
+status_code: 200
